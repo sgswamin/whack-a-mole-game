@@ -48,7 +48,7 @@ h2 {
   display: flex;
   flex-wrap: wrap;
   margin: 20px auto;
-  cursor: url('https://github.com/sgswamin/whack-a-mole-game/blob/main/assets/mallet.png'), pointer;
+  cursor: url("https://github.com/Thinkful-Ed/js-dev-final-capstone-starter/blob/main/assets/mallet.png?raw=true"), pointer;
 }
 
 .hole {
@@ -68,7 +68,7 @@ h2 {
   position: absolute;
   bottom: -40%;
   z-index: 2;
-  pointer-events:none;
+  pointer-events: none;
 }
 
 .mole {
